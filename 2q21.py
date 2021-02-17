@@ -1,0 +1,4 @@
+d={"dog":"willie","cat":"rudra","finch":"sweety"}
+for key,value in d.items():
+	print(value, "is a " ,key)
+	
